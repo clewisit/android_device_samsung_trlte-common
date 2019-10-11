@@ -440,5 +440,7 @@
 
     <!-- Whether to enable Qualcomm Boost Framework -->
     <bool name="config_enableQcCpuBoost">true</bool>
- 
+
+     <!-- Disable lockscreen rotation by default -->
+    <bool name="config_enableLockScreenRotation">true</bool> 
 </resources>
